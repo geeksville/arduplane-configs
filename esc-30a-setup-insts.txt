@@ -1,0 +1,52 @@
+The manual is crap and here is how it work.
+
+
+
+   Throttle stick position        bottom                   in middle                  	 	 at top
+     
+1. Brake setting                 | off                    | soft                      		| hard
+2. Timing setting                | Low                    | Medium                    		| High
+3. Battery Protectio             | High cut-off threshold | Medium cut-off threshold  		| ----- 
+4. Plane Mode                    | Fixed-wing aircraft    | Helicopter mode 1(with Soft start)	|Helicoptermode 2(Super-Soft+Govener Mode)
+5. Throttle response speed       | normal                 | Medium                    		| High
+  setting
+
+
+
+
+Turnigy AE-30A ESC setting
+
+step 1.  Throttle all the way up
+
+step 2.  Switch on transmitter
+
+step 3.  switch on power to esc (To change the setting you should either move the stick in the bottom, middle or top position)
+
+step 4.  its going through a series of beeping processes, wait untill it does not beep at all, only then move the throttle all the way down. 
+	 There will be funny beeping untill it stops
+
+Step 5.  Brake setting =	starts with short 1 beeps repeat 5 times and follow by confirmation beeps sound.     
+
+Step 6.  Timing setting =  2 short beeps repeat 5 times and follow by confirmation beeps sound.       
+ 
+Step 7.  Battery Protection setting = 3 short beeps repeat 5 times and follow by confirmation beeps sound.
+
+Step 8.  Plane Mode/ Helicopter mode 1&2 = 4 short beeps repeat 5 times and follow by confirmation beeps sound.
+
+Step 9.  Throttle response speed setting = 5 short beeps repeat 5 times and follow by confirmation beeps sound.
+
+Step 10. loudness of the motor beeping = 6 short beeps repeat 5 times and follow by confirmation beeps sound.
+
+Step 11. wait until the confirmation beep is finnished then disconnect the battery.
+
+step 12. Move  your throttle to the bottom and plug in your ESC's battery. The ESC will confirm that it is connected to the transmitter and 
+         the throttle is in bottom. DO NOT MOVE THE THROTTLE UP YET, you need to confirm that your ESC was setup correctly. Now the ESC will 
+         beep through menu 1-5 starting with your menu 1 which is your brake setting and end with menu 5 which is your throttle response
+
+If after step 12 confirm you have program wrongly, just go through the steps above good luck!
+
+
+
+Edit by: Eldon Yee
+
+
